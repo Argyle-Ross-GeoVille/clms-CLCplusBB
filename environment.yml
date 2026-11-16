@@ -1,0 +1,15 @@
+name: clcplus-bb-fragmentation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - rasterio
+  - geopandas
+  - folium
+  - branca
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - pillow
+  - ipywidgets
