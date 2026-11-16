@@ -19,5 +19,5 @@ Jupyter notebook exploring landscape fragmentation and land-use pressures around
 ## Quick start
 
 Open `landscape_fragmentation_with_CLCplusBB.ipynb` and run the cells sequentially. Dependencies (`rasterio`, `folium`, `geopandas`, etc.) are installed in the first cell.
-For running it on a binder machine in your web-browser, click this link:
+<p> For running it on a binder machine in your web-browser, click this link:</p>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eea/clms-CLCplusBB/HEAD?labpath=landscape_fragmentation_with_CLCplusBB.ipynb)
